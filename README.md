@@ -4,8 +4,8 @@ Hi There! 👋<br/>
 This is a repo where you have access to all the Jupiter Notebooks, along with some resources that made it all possible!<br/>
 
 ## Table of Contents
-* [What's Hybrid Quantum Classical Neural Networks?](##What's Hybrid Quantum Classical Neural Networks?)
-* [Diabetic Retinopathy](##Diabetic Retinopathy)
+* [What's Hybrid Quantum Classical Neural Networks?](##What's-Hybrid-Quantum-Classical-Neural-Networks?)
+* [Diabetic Retinopathy](##Diabetic-Retinopathy)
 * [Acknowledgements](##Acknowledgements)
 * [Connect with me](##Connect-with-me)
 
