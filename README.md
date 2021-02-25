@@ -17,7 +17,7 @@ There are 2 parts to a Hybrid Quantum Classical Neural Network: The classical NN
 ### A Longer Explanation:
 
 <p align="center">
-<img src="HQCNN.png" width="350"/><br/>
+<img src="HQCNN.png" width="600"/><br/>
 Credit: Qiskit
 </p>
 
@@ -26,7 +26,7 @@ Here's a diagram of what exactly a Hybrid Quantum Classical Neural Network looks
 That's a nice scaled down version of the Hybrid Quantm Classical Neural Network. I did it a bit different. For the first part, I didn't just use classical neural networks. I used a CNN (So Conv2d, Maxpooling, Relu) along with some linearl layers attatched to the end (with dropout and Relus). Now comes the PQC! In the diagram there are 2 qubits, each with only 1 rotation, but we can do a lot more with the PQC! Take for example this:
 
 <p align="center">
-<img src="PQC.png" width="350"/><br/>
+<img src="PQC.png" width="600"/><br/>
 Credit: https://arxiv.org/pdf/1912.06184.pdf
 </p>
 
@@ -43,18 +43,17 @@ Now, practically speaking, we don't need the quantum part of our model. But it's
 
 ## Acknowledgements
 
-* [Understanding LSTM Networks by Christopher Olah - A wonderful guide to LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-* [Reserach Paper that details the history, evolution and math of LSTMs](https://arxiv.org/pdf/1909.09586.pdf)
-* [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
-* [The Dataset I used](https://www.kaggle.com/shahir/protein-data-set/notebooks)
-* [Resource that helped me code](https://towardsdatascience.com/lstm-text-classification-using-pytorch-2c6c657f8fc0)
-* [Resource that helped me code](https://www.analyticsvidhya.com/blog/2020/01/first-text-classification-in-pytorch/)
-* [Resource that helped me code](https://huggingface.co/Rostlab/prot_bert)
-* [Resource that explains the importance](https://arxiv.org/ftp/arxiv/papers/1701/1701.08318.pdf)
-* [Resource that explains the importance](https://www.nature.com/articles/nrm2281)
-* [Resource that explains the importance](https://www.newscientist.com/article/2194516-we-dont-know-what-a-fifth-of-our-genes-do-and-wont-find-out-soon/)
-* [Resource that explains the importance](https://news.mit.edu/2019/machine-learning-amino-acids-protein-function-0322)
-* [Resource that explains the importance](https://www.frontiersin.org/articles/10.3389/fbioe.2020.00391/full)
+* [Information about QML in General](https://arxiv.org/pdf/1907.05415.pdf)
+* [Information about QML in General](https://medium.com/meetech/highlighting-quantum-computing-for-machine-learning-1f1abd41cb59)
+* [Information about QML in General](https://pennylane.ai/qml/whatisqml.html)
+* [Information about QML in General](https://www.youtube.com/watch?v=OKbcJCUx6xA)
+* [Information about QML in General](https://www.youtube.com/watch?v=DmzWsvb-Un4)
+* [Helped with the code of Hybrid Quantum Classical Neural Networks](https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pytorch.html)
+* [Paper about using Hybrid Quantum Classical Neural Networks](https://arxiv.org/pdf/1912.06184.pdf)
+* [Paper about using Hybrid Quantum Classical Neural Networks](https://arxiv.org/pdf/2003.02989.pdf)
+* [Paper about Hybrid Quantum Classical Neural Networks Parameter Shift Rule](https://arxiv.org/pdf/1905.13311.pdf)
+* [Information about Hybrid Quantum Classical Neural Networks](https://www.youtube.com/watch?v=-o9AhIz1uvo)
+* [Information about Hybrid Quantum Classical Neural Networks](https://medium.com/ai-in-plain-english/hybrid-quantum-classical-machine-learning-️-f08ad3c2a53a)
 
 ## Connect with me
 
