@@ -1,11 +1,11 @@
-# Hybrid-Quantum-Classical-Neural-Networks-for-Diabetic-Retinopathy
+# Quantum-Teleportation
 
 Hi There! 👋<br/>
 This is a repo where you have access to all the Jupiter Notebooks, along with some resources that made it all possible!<br/>
 
 ## Table of Contents
-* [What are LSTMs?](#What-are-LSTMs?)
-* [What's the Big Deal with Protien Folding?](#What's-the-Big-Deal-with-Protien-Folding?)
+* [What's Hybrid Quantum Classical Neural Networks?](#What's Hybrid Quantum Classical Neural Networks?)
+* [Diabetic Retinopathy](#Diabetic Retinopathy)
 * [Acknowledgements](#Acknowledgements)
 * [Connect with me](#Connect-with-me)
 
