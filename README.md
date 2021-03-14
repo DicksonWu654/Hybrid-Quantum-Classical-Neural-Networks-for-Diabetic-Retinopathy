@@ -23,7 +23,7 @@ Credit: Qiskit
 
 Here's a diagram of what exactly a Hybrid Quantum Classical Neural Network looks like! We have a normal neural network at the top which just takes in all the data and computes and compresses it down to a lower size. Then we take the outputs of that classical networks and use it as the rotations of our qubits. Finally we take the outputs of those qubits and put them inside of another classical neural network, which then outputs the result
 
-That's a nice scaled down version of the Hybrid Quantm Classical Neural Network. I did it a bit different. For the first part, I didn't just use classical neural networks. I used a CNN (So Conv2d, Maxpooling, Relu) along with some linearl layers attatched to the end (with dropout and Relus). Now comes the PQC! In the diagram there are 2 qubits, each with only 1 rotation, but we can do a lot more with the PQC! Take for example this:
+That's a nice scaled down version of the Hybrid Quantum Classical Neural Network. I did it a bit different. For the first part, I didn't just use classical neural networks. I used a CNN (So Conv2d, Maxpooling, Relu) along with some linearl layers attatched to the end (with dropout and Relus). Now comes the PQC! In the diagram there are 2 qubits, each with only 1 rotation, but we can do a lot more with the PQC! Take for example this:
 
 <p align="center">
 <img src="PQC.png" width="600"/><br/>
