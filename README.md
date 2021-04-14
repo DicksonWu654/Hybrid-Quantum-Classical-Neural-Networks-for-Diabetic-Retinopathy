@@ -41,6 +41,8 @@ Those those living in rural and poor areas, screening for this disease is game c
 
 Now, practically speaking, we don't need the quantum part of our model. But it's just fun to include and play around with!
 
+If you're curious to learn more - check out my [Article!](https://dickson-wu.medium.com/using-hybrid-quantum-classical-neural-networks-to-screen-diabetic-retinopathy-10bc0a633a10) Also check out my [Video!](https://youtu.be/kYPS387eLM8)
+
 ## Acknowledgements
 
 * [Information about QML in General](https://arxiv.org/pdf/1907.05415.pdf)
